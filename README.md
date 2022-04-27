@@ -15,8 +15,8 @@
 
 <div><br>
   <a href="https://github.com/Rafa-KozAnd">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 
