@@ -1,6 +1,6 @@
 ##
 
-### Olá! Bem-vindo ao meu <img alt="github" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , me chamo Rafael Kozlowski Andreola! 👋👨‍💻
+### Olá! Bem-vindo ao meu <img alt="github" height="20" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , me chamo Rafael Kozlowski Andreola! 👋👨‍💻
 
 - 💻 Back-End Developer;
 - 🎓 Aluno de Ciência da Computação - Universidade Positivo;
@@ -37,10 +37,7 @@
   <a href="https://www.facebook.com/rafa.kozand/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:rafandreola@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/692522294546792508" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
   
-##
-
-<div>
-  ![Snake animation](https://github.com/Rafa-KozAnd/Rafa-KozAnd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rafa-KozAnd/Rafa-KozAnd/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
