@@ -5,11 +5,11 @@
   <a href="/Docs/README_Pt-BR.md">Português</a>
 </div>
 
-### Olá! Bem-vindo ao meu <img alt="github" height="20" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , me chamo Rafael Kozlowski Andreola! 👋👨‍💻
+### Hello! Welcome to my <img alt="github" height="20" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , I'm Rafael Kozlowski Andreola! 👋👨‍💻
 
 - 💻 Back-End Developer;
-- 🎓 Aluno de Ciência da Computação - Universidade Positivo;
-- 🚀 Um eterno estudante de tecnologia e de suas aplicações;
+- 🎓 Computer Science Student - Universidade Positivo;
+- 🚀 An eternal student of technology and its applications.;
 
 ##
 <div>
@@ -74,6 +74,3 @@
   <img align="center" alt="arduino" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
-  
-
