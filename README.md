@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-  <a href="/README.md"><img height="35em" src="/Icons/Icon_EUA.jpg" /></a>
+  <a href="/README.md"><img height="35em" src="/Icons/Icon_EUA.png" /></a>
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
