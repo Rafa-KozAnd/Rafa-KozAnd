@@ -7,7 +7,7 @@
 
 ### Hello! Welcome to my <img alt="github" height="20" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , I'm Rafael Kozlowski Andreola! 👋
 
-- 👨‍💻 Back-End Developer;
+- 👨‍💻 Full-Stack Developer;
 - 🎓 Computer Science Student - Universidade Positivo;
 - 🚀 An eternal student of technology and its applications.
 
