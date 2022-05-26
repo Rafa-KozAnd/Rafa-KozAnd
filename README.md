@@ -5,7 +5,7 @@
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
-### Hello! Welcome to my <img alt="github" height="20" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> , I'm Rafael Kozlowski Andreola! 🤙🏻
+### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , I'm Rafael Kozlowski Andreola! 🤙🏻
 
 - 👨‍💻 Full-Stack Developer;
 - 🎓 Computer Science Student - Universidade Positivo;
