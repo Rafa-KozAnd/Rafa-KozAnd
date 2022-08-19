@@ -18,13 +18,13 @@
   
 </div>
 
-<div><br>
+<div align="center"><br>
   <a href="https://github.com/Rafa-KozAnd">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="100%" width="56%" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="100%" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
-<div>
+<div align="center">
   <h2>📱 Social Networks:</h2>
   <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rafa-kozand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
