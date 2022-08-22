@@ -5,7 +5,7 @@
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
-### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , I'm Rafael Kozlowski Andreola! 🤙🏻
+### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , I'm Rafa! 🤙🏻
 
 - 👨‍💻 Full-Stack Developer;
 - 🎓 Computer Science Student - Universidade Positivo;
@@ -26,17 +26,23 @@
 
 <div align="center">
   <h2>📱 Social Networks:</h2>
-  <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rafa-kozand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/rafa.kozand/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:rafandreola@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/692522294546792508" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/31uyyjzmvhtce2qgzx6crtcqvcpi" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://discord.gg/692522294546792508" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/Rafa_KozAnd/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/rafa-kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rafa.kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.snapchat.com/add/rafa_kozand?share_id=yNkkR-gXX_4&locale=pt-BR" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" /></a>
+  <a href="mailto:rafandreola@hotmail.com"><img height="30" widht="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pin.it/56F73IQ" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
 </div>
 
 <div style="display: inline_block"><br>
   <h2>👨‍💻 Languages:</h2>
   <img align="center" alt="js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="nodejs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="typescript" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="python" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="c" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -60,7 +66,8 @@
 <div style="display: inline_block"><br>
   <h2>🛠️ Tools:</h2>
   <img align="center" alt="git" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="vscode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="vscode" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="android" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="atom" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="center" alt="stree" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg" />
   <img align="center" alt="trello" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
@@ -80,9 +87,7 @@
   <h2>📚 Studying:</h2>
   <img align="center" alt="docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="react" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="nodejs2" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="elixir" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
-  <img align="center" alt="typescript" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="angular" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="bootstrap" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="next" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
