@@ -75,6 +75,7 @@
   <img align="center" alt="anaconda" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="heroku" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="jupyter" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="kotlin" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -93,4 +94,5 @@
   <img align="center" alt="bootstrap" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="next" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="yarn" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  <img align="center" alt="express" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
