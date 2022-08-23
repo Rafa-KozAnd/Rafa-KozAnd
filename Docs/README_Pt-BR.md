@@ -5,9 +5,15 @@
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
+<div align="center"><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=System&size=24&pause=2000&color=1DDBF7&background=0F11FF00&center=true&vCenter=true&width=435&lines=%E2%99%9B+Rafa+%E2%99%9B;Carregando+.+.+.;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+++++100%25;Desenvolvedor+Full-Stack;Python+%2F+JavaScript;.+.+.+.+.+.+.+.+.+.;%22A+vida+%C3%A9+uma+ladeira...;...+me+observe+subir!%22)](https://git.io/typing-svg)
+
+</div>
+
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , me chamo Rafa! 🤙🏻
 
-- 👨‍💻 Desenvolvedor Full-Stack;
+- 👨‍💻 Estagiário Full-Stack;
 - 🎓 Aluno de Ciência da Computação - Universidade Positivo;
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
 
@@ -48,6 +54,7 @@
   <img align="center" alt="c" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="php" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="kotlin" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
   
 <div style="display: inline_block"><br>
@@ -75,7 +82,6 @@
   <img align="center" alt="anaconda" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="heroku" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img align="center" alt="jupyter" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="kotlin" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
