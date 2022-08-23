@@ -5,9 +5,15 @@
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
+<div align="center"><br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=System&size=24&pause=2000&color=1DDBF7&background=0F11FF00&center=true&vCenter=true&width=435&lines=%E2%99%9B+Rafa+%E2%99%9B;Loading+.+.+.;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+++++100%25;Full-Stack+Developer;Python+%2F+JavaScript;.+.+.+.+.+.+.+.+.+.;%22Life+is+a+slope...;...+watch+me+climb!%22)](https://git.io/typing-svg)
+  
+</div>
+
 ### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , I'm Rafa! 🤙🏻
 
-- 👨‍💻 Full-Stack Developer;
+- 👨‍💻 Full-Stack Trainee;
 - 🎓 Computer Science Student - Universidade Positivo;
 - 🚀 An eternal student of technology and its applications.
 
