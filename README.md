@@ -13,7 +13,7 @@
 
 ### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , I'm Rafa! 🤙🏻
 
-- 👨‍💻 Full-Stack Trainee;
+- 👨‍💻 Full-Stack Trainee - Procuradoria Geral do Estado/PR;
 - 🎓 Computer Science Student - Universidade Positivo;
 - 🚀 An eternal student of technology and its applications.
 
