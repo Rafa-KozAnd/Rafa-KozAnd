@@ -66,6 +66,12 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <h2>📱 Aplicativos Móveis:</h2>
+  <img align="center" alt="kotlin" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="java" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+  
+<div style="display: inline_block"><br>
   <h2>💻 Sistemas Operacionais:</h2>
   <img align="center" alt="windows" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="linux" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
