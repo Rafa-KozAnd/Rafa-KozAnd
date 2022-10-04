@@ -35,7 +35,13 @@
   <img height="100%" width="56%" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="100%" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
-
+ 
+<div align="center"><br>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafa-KozAnd&theme=neon-dark&border_radius=6.7)](https://git.io/streak-stats)
+  
+</div>
+  
 <div align="center">
   <h2>📱 Social Networks:</h2>
   <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
