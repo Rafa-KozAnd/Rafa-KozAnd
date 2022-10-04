@@ -11,11 +11,17 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro. Eu sou o Rafa! 🤙🏻
 
 - 👨‍💻 Desenvolvedor Full-Stack - Procuradoria Geral do Estado/PR (Estágio);
 - 🎓 Aluno de Ciência da Computação - Universidade Positivo;
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
+- ...
+- ...
+- ...
+- ...
 
 ##
 <div>
