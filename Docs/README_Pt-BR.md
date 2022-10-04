@@ -33,7 +33,7 @@
 <div align="center"><br>
   <a href="https://github.com/Rafa-KozAnd">
   <img height="100%" width="56%" src="https://github-readme-stats.vercel.app/api?username=Rafa-KozAnd&show_icons=true&locale=pt-br&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="100%" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&locale=pt-br&layout=compact&langs_count=16&theme=tokyonight" />
+  <img height="100%" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&locale=pt-br&layout=compact&langs_count=16&theme=transparent" />
 </div>
 
 <div align="center"><br>
