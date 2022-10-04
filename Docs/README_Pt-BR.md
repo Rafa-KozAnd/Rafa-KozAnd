@@ -11,7 +11,7 @@
 
 </div>
 
-### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , me chamo Rafa! 🤙🏻
+### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro. Eu sou o Rafa! 🤙🏻
 
 - 👨‍💻 Estagiário Full-Stack - Procuradoria Geral do Estado/PR;
 - 🎓 Aluno de Ciência da Computação - Universidade Positivo;
