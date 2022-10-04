@@ -36,6 +36,11 @@
   <img height="100%" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-KozAnd&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
+<div align="center"><br>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafa-KozAnd&theme=neon-dark&border_radius=6.7&locale=pt-br)](https://git.io/streak-stats)
+  
+</div>
 
 <div align="center">
   <h2>📱 Redes Sociais:</h2>
