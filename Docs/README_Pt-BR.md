@@ -15,8 +15,8 @@
 
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro / minha cara. Eu sou o Rafa! 🤙🏻
 
-- 👨‍💻 Desenvolvedor Full-Stack - Procuradoria Geral do Estado/PR (Estágio);
-- 🎓 Aluno de Ciência da Computação - Universidade Positivo;
+- 👨‍💻 Desenvolvedor Full-Stack -  ();
+- 🎓 Graduado em Ciência da Computação - Universidade Positivo;
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
 - ...
 - ...
