@@ -15,11 +15,17 @@
 
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro / minha cara. Eu sou o Rafa! 🤙🏻
 
+
+- 👨‍💻 Full-Stack Developer -  ();
+
+- 🎓 Graduate in Computer Science - Universidade Positivo;
+
+
 - 👨‍💻 Desenvolvedor Full-Stack -  ();
+- 💼 Analista de Sistemas (Baggio Imóveis);
 - 🎓 Graduado em Ciência da Computação - Universidade Positivo;
+- 📈 Cursando M.B.A. em Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
-- ...
-- ...
 - ...
 - ...
 
