@@ -23,10 +23,6 @@
 - ...
 - ...
 
-<div align="center">
-  <a href="https://drive.google.com/drive/folders/1Tcp5SympU4BViGn378wtQQFgd2YEZR5m?usp=sharing" target="_blank">Currículo</a>
-</div>
-  
 ##
 <div>
   
