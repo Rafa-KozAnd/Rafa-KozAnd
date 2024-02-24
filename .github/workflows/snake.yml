@@ -1,3 +1,5 @@
+name: Generate snake game
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */1 * * *"
@@ -22,3 +24,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
