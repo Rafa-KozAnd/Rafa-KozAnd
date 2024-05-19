@@ -16,7 +16,7 @@
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro / minha cara. Eu sou o Rafa! 🤙🏻
 
 - 👨‍💻 Desenvolvedor Full-Stack -  ();
-- 💼 Analista de Sistemas (Baggio Imóveis);
+- 💼 Analista de Sistemas (M.E.I.);
 - 🎓 Graduado em Ciência da Computação - Universidade Positivo;
 - 📚 M.B.A. em Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
 - 📈 Cursando Pós em Inteligência Artificial - Universidade Tuiuti do Paraná;
