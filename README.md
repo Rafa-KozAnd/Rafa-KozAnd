@@ -16,11 +16,11 @@
 ### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , my dear. I'm Rafa! 🤙🏻
 
 - 👨‍💻 Full-Stack Developer -  ();
-- 💼 Systems Analyst (Baggio Imóveis);
+- 💼 Systems Analyst (M.E.I.);
 - 🎓 Graduate in Computer Science - Universidade Positivo;
-- 📈 Studying M.B.A. in Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
+- 📚 Graduate M.B.A. in Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
+- 📈 Studying Graduate Artificial intelligence - Universidade Tuiuti do Paraná;
 - 🚀 An eternal student of technology and its applications.
-- ...
 - ...
 
 ##
