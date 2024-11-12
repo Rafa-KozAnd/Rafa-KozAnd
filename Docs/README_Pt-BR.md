@@ -16,7 +16,7 @@
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro / minha cara. Eu sou o Rafa! 🤙🏻
 
 - 👨‍💻 Desenvolvedor Full-Stack -  ();
-- 💼 Analista de Sistemas (M.E.I.);
+- 💼 Analista e Desenvolvedor de Sistemas - FAE Business School; 
 - 🎓 Graduado em Ciência da Computação - Universidade Positivo;
 - 📚 M.B.A. em Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
 - 📈 Cursando Pós em Inteligência Artificial - Universidade Tuiuti do Paraná;
@@ -117,4 +117,15 @@
   <h2>📚 Estudando:</h2>
   <img align="center" alt="docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="angular" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="fedora" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+  <img align="center" alt="filezilla" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original-wordmark.svg" />
+  <img align="center" alt="flask" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img align="center" alt="flask" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="intellij" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="kubernetes" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+  <img align="center" alt="maven" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+  <img align="center" alt="oauth" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
+  <img align="center" alt="pycharm" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="ssh" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
+  <img align="center" alt="vuejs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
