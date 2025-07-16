@@ -19,7 +19,7 @@
 - 💼 Systems Analyst and Developer - FAE Business School;
 - 🎓 Graduate in Computer Science - Universidade Positivo;
 - 📚 Graduate M.B.A. in Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
-- 📈 Studying Graduate Artificial intelligence - Universidade Tuiuti do Paraná;
+- 📈 Graduate Artificial intelligence - Universidade Tuiuti do Paraná;
 - 🚀 An eternal student of technology and its applications.
 - ...
 
