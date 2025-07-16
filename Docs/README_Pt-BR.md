@@ -13,13 +13,13 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro / minha cara. Eu sou o Rafa! 🤙🏻
+### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro. Eu sou o Rafa! 🤙🏻
 
 - 👨‍💻 Desenvolvedor Full-Stack -  ();
 - 💼 Analista e Desenvolvedor de Sistemas - FAE Business School; 
 - 🎓 Graduado em Ciência da Computação - Universidade Positivo;
 - 📚 M.B.A. em Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
-- 📈 Cursando Pós em Inteligência Artificial - Universidade Tuiuti do Paraná;
+- 📈 Pós-Graduação em Inteligência Artificial - Universidade Tuiuti do Paraná;
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
 - ...
 
