@@ -65,6 +65,7 @@
   <img align="center" alt="php" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="elixir" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
   <img align="center" alt="vuejs" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="dart" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 </div>
   
 <div style="display: inline_block"><br>
