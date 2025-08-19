@@ -48,7 +48,6 @@
   <h2>📱 Redes Sociais:</h2>
   <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31uyyjzmvhtce2qgzx6crtcqvcpi" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rafa-kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rafandreola@hotmail.com"><img height="30" widht="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -103,6 +102,8 @@
   <img align="center" alt="jupyter" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="gcloud" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="intellij" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="pycharm" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="maven" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -124,8 +125,6 @@
   <img align="center" alt="filezilla" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original-wordmark.svg" />
   <img align="center" alt="flask" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
   <img align="center" alt="kubernetes" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" alt="maven" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img align="center" alt="oauth" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" />
-  <img align="center" alt="pycharm" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="ssh" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
 </div>
