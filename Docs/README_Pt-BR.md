@@ -17,6 +17,9 @@
 - 🚀 Um eterno estudante de tecnologia e de suas aplicações.
 - ...
 
+![AI Graduate](https://img.shields.io/badge/AI-Graduate-purple)
+![Cybersecurity MBA](https://img.shields.io/badge/MBA-Cybersecurity-blue)
+
 ##
 <div>
 <picture>
