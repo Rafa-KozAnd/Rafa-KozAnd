@@ -5,12 +5,6 @@
   <a href="/Docs/README_Pt-BR.md"><img height="35em" src="/Icons/Icon_Brazil.png" /></a>
 </div>
 
-<div align="center"><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=System&size=24&pause=2000&color=1DDBF7&background=0F11FF00&center=true&vCenter=true&width=435&lines=%E2%99%9B+Rafa+%E2%99%9B;Carregando+.+.+.;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+++++100%25;Desenvolvedor+Full-Stack;Python+%2F+JavaScript;.+.+.+.+.+.+.+.+.+.;%22A+vida+%C3%A9+uma+ladeira...;...+me+observe+subir!%22)](https://git.io/typing-svg)
-
-</div>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ### Olá! Bem-vindo ao meu <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , meu caro. Eu sou o Rafa! 🤙🏻
