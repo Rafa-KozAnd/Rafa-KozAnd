@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2>📱 Redes Sociais:</h2>
-  <a href="https://www.instagram.com/rafa_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/31uyyjzmvhtce2qgzx6crtcqvcpi" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="mailto:rafandreola@hotmail.com"><img height="30" widht="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
