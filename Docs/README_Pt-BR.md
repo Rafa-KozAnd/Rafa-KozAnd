@@ -40,13 +40,6 @@
   
 </div>
 
-<div align="center">
-  <h2>📱 Redes Sociais:</h2>
-  <a href="https://www.instagram.com/_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/31uyyjzmvhtce2qgzx6crtcqvcpi" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="mailto:rafandreola@hotmail.com"><img height="30" widht="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
 <div style="display: inline_block"><br>
   <h2>👨‍💻 Linguagens:</h2>
   <img align="center" alt="js" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
