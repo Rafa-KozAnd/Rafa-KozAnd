@@ -39,13 +39,6 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafa-KozAnd&theme=neon-dark&border_radius=6.7)](https://git.io/streak-stats)
   
 </div>
-  
-<div align="center">
-  <h2>📱 Social Networks:</h2>
-  <a href="https://www.instagram.com/_kozand/" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/31uyyjzmvhtce2qgzx6crtcqvcpi" target="_blank"><img height="30" widht="30" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="mailto:rafandreola@hotmail.com"><img height="30" widht="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
 
 <div style="display: inline_block"><br>
   <h2>👨‍💻 Languages:</h2>
