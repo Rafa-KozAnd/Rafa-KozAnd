@@ -7,9 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-### Hello! Welcome to my <img alt="github" height="30" widht="30" src="/Icons/Icon_GitHub.png" /> , my dear. I'm Rafa! 🤙🏻
+### Hello! I'm Rafa! 🤙🏻
 
-- 👨‍💻 Full-Stack Developer -  ();
 - 💼 Systems Analyst and Developer - FAE Business School;
 - 🎓 Graduate in Computer Science - Universidade Positivo;
 - 📚 Graduate M.B.A. in Cybersecurity and Cybercrimes - Universidade Tuiuti do Paraná;
